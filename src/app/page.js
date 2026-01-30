@@ -71,7 +71,7 @@ export default function Home() {
 
           <div className="hero-image">
             <img
-              src="https://i.postimg.cc/br9RkHPs/Whats-App-Image-2026-01-27-at-5-13-56-PM.jpg"
+              src="/assate/dp1.png"
               alt="Guddu Kumar"
             />
           </div>
